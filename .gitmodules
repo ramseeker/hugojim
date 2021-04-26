@@ -16,3 +16,9 @@
 [submodule "jimhugo/themes/etch"]
 	path = jimhugo/themes/etch
 	url = https://github.com/LukasJoswiak/etch.git
+[submodule "hugoblog/themes/paper"]
+	path = hugoblog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "hugoblog/themes/etch"]
+	path = hugoblog/themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
