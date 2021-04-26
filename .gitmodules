@@ -1,0 +1,18 @@
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "jimwrites/themes/themes/hugo-bearblog"]
+	path = jimwrites/themes/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "jimwrites/themes/hugo-bearblog"]
+	path = jimwrites/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "jimwrites/themes/paper"]
+	path = jimwrites/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "jimhugo/themes/hugo-bearblog"]
+	path = jimhugo/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "jimhugo/themes/etch"]
+	path = jimhugo/themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
